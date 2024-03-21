@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-# Time
+# Dev
 
-| [<br><sub>Danilo Barbosa Hatzlhofer</sub>](https://github.com/DaniloHatz) |
+| [<sub>Danilo Barbosa Hatzlhofer</sub>](https://github.com/DaniloHatz) |
 | :---: | :---: |
